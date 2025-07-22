@@ -25,7 +25,7 @@ This project uses Machine Learning to recommend the best crop to grow and the mo
 A basic yet effective ML model to help farmers and agricultural experts make better crop and fertilizer choices using data-driven insights.
 
 ## 📎 Author
-Nandan B Deshamukh
+Adarsh Gautam
 
 ---
 
